@@ -23,7 +23,7 @@ Then run "http://localhost:3000/". In any browser
 
 ### Others
  - `dependencies()` : Path, Express, body-parcer
- - `pkg` : direct access to package.json
+ - `pkg` : [link !](/package.json?raw=true "Pkg")
 
 
 
