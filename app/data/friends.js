@@ -8,7 +8,7 @@ var friends = [
    {
       "name":"Donald Trump",
       "photo":"http://cdn.cnn.com/cnnnext/dam/assets/171111093428-01-trump-putin-111117-exlarge-169.jpg",
-      "scores":[4,2,5,1,3,2,2,1,3,2]
+      "scores":[1,1,5,1,1,5,5,1,3,2]
    },
    {
       "name":"Zombie Haircut",
@@ -18,22 +18,22 @@ var friends = [
    {
       "name":"Daryl",
       "photo":"https://static.tumblr.com/9b4199d5cb4a8169f47e863907984f2a/yt1krbu/1JLoareq2/tumblr_static_tumblr_static_7g3g2eycth0c8osskgkkwc8gc_640.jpg",
-      "scores":[3,3,4,2,2,1,3,2,2,3]
+      "scores":[5,3,1,5,2,1,2,2,5,3]
    },
    {
       "name":"Seth Walton",
       "photo":"https://avatars2.githubusercontent.com/u/29074611?s=460&v=4",
-      "scores":[4,3,4,1,5,2,5,3,1,4]
+      "scores":[5,5,5,5,5,2,1,4,5,4]
    },
       {
       "name":"Rick",
       "photo":"http://www3.pictures.zimbio.com/mp/lyZVHxWS_N5x.jpg",
-      "scores":[3,3,4,1,4,3,5,3,5,4]
+      "scores":[3,1,4,1,4,3,1,3,5,4]
    },
    {
       "name":"Glen",
       "photo":"https://i.pinimg.com/736x/be/b7/ac/beb7ac2c2ad2e573228a9c029f156f9d--the-walking-dead-glenn-dies-the-walking-dead-zombies-makeup.jpg",
-      "scores":[3,3,4,1,4,3,5,3,5,4]
+      "scores":[5,5,1,1,4,3,1,5,5,5]
    },
 
 ]
